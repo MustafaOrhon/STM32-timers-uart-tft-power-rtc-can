@@ -12,6 +12,6 @@ You can then include the relevant driver files in your project and configure the
 
 ## Contributing
 If you find a bug or would like to contribute to this project, please open an issue or a pull request. Contributions are welcome and appreciated!
-## Acknowledgements
+### Acknowledgements
 
 This library was inspired by the course Mastering Microcontroller with Embedded Driver Development on Udemy, and was modified to work with the STM32F401RE-STM32429I microcontrollers. I would like to thank the instructor of the course for providing a clear and concise explanation of the concepts, and for helping me get started with writing drivers for microcontrollers.
