@@ -1,0 +1,2 @@
+msp.c:9:6:HAL_MspInit	1
+msp.c:22:6:HAL_TIM_Base_MspInit	1

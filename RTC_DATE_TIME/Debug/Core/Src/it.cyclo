@@ -1,0 +1,2 @@
+it.c:8:6:SysTick_Handler	1
+it.c:14:6:EXTI15_10_IRQHandler	1

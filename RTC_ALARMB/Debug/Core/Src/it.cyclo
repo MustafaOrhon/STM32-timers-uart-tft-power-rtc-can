@@ -1,0 +1,3 @@
+it.c:9:6:SysTick_Handler	1
+it.c:15:6:EXTI15_10_IRQHandler	1
+it.c:20:6:RTC_Alarm_IRQHandler	1
