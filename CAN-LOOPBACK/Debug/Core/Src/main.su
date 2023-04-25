@@ -1,0 +1,9 @@
+../Core/Src/main.c:25:5:main	8	static
+../Core/Src/main.c:54:6:GPIO_Init	32	static
+../Core/Src/main.c:69:6:SystemClockConfig	80	static
+../Core/Src/main.c:109:6:Error_Handler	4	static
+../Core/Src/main.c:115:6:UART2_Init	8	static
+../Core/Src/main.c:132:6:CAN1_Init	8	static
+../Core/Src/main.c:156:6:CAN1_TX	48	static
+../Core/Src/main.c:182:6:CAN1_RX	48	static
+../Core/Src/main.c:201:6:CAN1_Filter_Config	48	static
