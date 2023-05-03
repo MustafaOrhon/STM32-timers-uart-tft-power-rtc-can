@@ -1,0 +1,5 @@
+lv_obj_pos.h:199:20:lv_obj_center	1
+lv_disp.h:182:26:lv_scr_act	1
+lv_example_chart_2.c:8:13:draw_event_cb	14
+lv_example_chart_2.c:90:13:add_data	2
+lv_example_chart_2.c:104:6:lv_example_chart_2	2

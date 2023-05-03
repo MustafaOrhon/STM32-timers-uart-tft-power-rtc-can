@@ -1,0 +1,10 @@
+bsp_lcd.c:111:6:BSP_LCD_Init	1
+bsp_lcd.c:121:6:LCD_Pin_Init	1
+bsp_lcd.c:166:6:LCD_SPI_Enable	1
+bsp_lcd.c:171:6:LCD_SPI_Init	1
+bsp_lcd.c:197:6:delay_50ms	2
+bsp_lcd.c:200:6:LCD_Reset	3
+bsp_lcd.c:207:6:LCD_Config	1
+bsp_lcd.c:340:6:LCD_Write_Cmd	4
+bsp_lcd.c:354:6:LCD_Write_Data	5
+bsp_lcd.c:366:6:BSP_LCD_Set_Orientation	3

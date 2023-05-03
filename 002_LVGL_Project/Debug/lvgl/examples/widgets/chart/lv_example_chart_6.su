@@ -1,0 +1,5 @@
+d:\stm32projects\002_lvgl_project\lvgl\src\misc\lv_color.h:595:26:lv_color_make	16	static
+d:\stm32projects\002_lvgl_project\lvgl\src\misc\lv_color.h:696:26:lv_color_white	8	static
+d:\stm32projects\002_lvgl_project\lvgl\src/core/lv_disp.h:182:26:lv_scr_act	8	static
+../lvgl/examples/widgets/chart/lv_example_chart_6.c:8:13:event_cb	176	static
+../lvgl/examples/widgets/chart/lv_example_chart_6.c:60:6:lv_example_chart_6	40	static

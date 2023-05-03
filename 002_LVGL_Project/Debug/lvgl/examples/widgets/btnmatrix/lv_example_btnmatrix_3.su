@@ -1,0 +1,6 @@
+d:\stm32projects\002_lvgl_project\lvgl\src\misc\lv_style.h:529:20:lv_style_set_pad_all	16	static
+d:\stm32projects\002_lvgl_project\lvgl\src\misc\lv_style.h:549:20:lv_style_set_pad_gap	16	static
+d:\stm32projects\002_lvgl_project\lvgl\src\core\lv_obj_pos.h:199:20:lv_obj_center	16	static
+d:\stm32projects\002_lvgl_project\lvgl\src/core/lv_disp.h:182:26:lv_scr_act	8	static
+../lvgl/examples/widgets/btnmatrix/lv_example_btnmatrix_3.c:4:13:event_cb	32	static
+../lvgl/examples/widgets/btnmatrix/lv_example_btnmatrix_3.c:27:6:lv_example_btnmatrix_3	16	static

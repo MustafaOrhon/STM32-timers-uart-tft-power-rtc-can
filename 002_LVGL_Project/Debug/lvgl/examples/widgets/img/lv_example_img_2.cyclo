@@ -1,0 +1,8 @@
+lv_color.h:595:26:lv_color_make	1
+lv_disp.h:182:26:lv_scr_act	1
+lv_slider.h:84:20:lv_slider_set_value	1
+lv_slider.h:106:20:lv_slider_set_range	1
+lv_slider.h:130:23:lv_slider_get_value	1
+lv_example_img_2.c:14:6:lv_example_img_2	1
+lv_example_img_2.c:41:13:slider_event_cb	1
+lv_example_img_2.c:53:19:create_slider	1

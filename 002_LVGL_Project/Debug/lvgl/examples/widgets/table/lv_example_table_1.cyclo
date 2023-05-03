@@ -1,0 +1,5 @@
+lv_color.h:439:48:lv_color_mix	1
+lv_obj_pos.h:199:20:lv_obj_center	1
+lv_disp.h:182:26:lv_scr_act	1
+lv_example_table_1.c:4:13:draw_part_event_cb	7
+lv_example_table_1.c:33:6:lv_example_table_1	1
