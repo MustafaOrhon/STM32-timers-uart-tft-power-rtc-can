@@ -1,0 +1,5 @@
+lv_color.h:595:26:lv_color_make	1
+lv_color.h:696:26:lv_color_white	1
+lv_obj_pos.h:199:20:lv_obj_center	1
+lv_disp.h:182:26:lv_scr_act	1
+lv_example_canvas_1.c:8:6:lv_example_canvas_1	1

@@ -1,0 +1,5 @@
+main.c:58:13:LTDC_Clock_Init	2
+main.c:85:5:main	1
+main.c:133:6:SystemClock_Config	4
+main.c:189:13:MX_GPIO_Init	1
+main.c:363:6:Error_Handler	1

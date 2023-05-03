@@ -1,0 +1,5 @@
+lv_color.h:595:26:lv_color_make	1
+lv_color.h:696:26:lv_color_white	1
+lv_disp.h:182:26:lv_scr_act	1
+lv_example_chart_6.c:8:13:event_cb	9
+lv_example_chart_6.c:60:6:lv_example_chart_6	2

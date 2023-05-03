@@ -1,0 +1,8 @@
+lv_color.h:595:26:lv_color_make	1
+lv_color.h:600:26:lv_color_hex	1
+lv_color.h:696:26:lv_color_white	1
+lv_color.h:700:26:lv_color_black	1
+lv_obj_pos.h:199:20:lv_obj_center	1
+lv_disp.h:182:26:lv_scr_act	1
+lv_example_label_4.c:7:13:add_mask_event_cb	4
+lv_example_label_4.c:32:6:lv_example_label_4	1

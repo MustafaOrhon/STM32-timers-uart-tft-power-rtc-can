@@ -1,0 +1,11 @@
+d:\stm32projects\003_rgb_mixer\lvgl\src\font\lv_font.h:124:26:lv_font_get_line_height	16	static
+d:\stm32projects\003_rgb_mixer\lvgl\src\misc\lv_color.h:595:26:lv_color_make	16	static
+d:\stm32projects\003_rgb_mixer\lvgl\src\misc\lv_color.h:696:26:lv_color_white	8	static
+d:\stm32projects\003_rgb_mixer\lvgl\src\misc\lv_color.h:700:26:lv_color_black	8	static
+d:\stm32projects\003_rgb_mixer\lvgl\src\misc\lv_style.h:529:20:lv_style_set_pad_all	16	static
+d:\stm32projects\003_rgb_mixer\lvgl\src\core\lv_obj_pos.h:199:20:lv_obj_center	16	static
+d:\stm32projects\003_rgb_mixer\lvgl\src/core/lv_obj_style_gen.h:463:33:lv_obj_get_style_text_font	24	static
+d:\stm32projects\003_rgb_mixer\lvgl\src/core/lv_obj_style_gen.h:475:26:lv_obj_get_style_text_line_space	24	static
+d:\stm32projects\003_rgb_mixer\lvgl\src/core/lv_disp.h:182:26:lv_scr_act	8	static
+../lvgl/examples/widgets/roller/lv_example_roller_3.c:4:13:mask_event_cb	80	static
+../lvgl/examples/widgets/roller/lv_example_roller_3.c:58:6:lv_example_roller_3	16	static

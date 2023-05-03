@@ -1,0 +1,9 @@
+lv_color.h:595:26:lv_color_make	1
+lv_color.h:640:20:lv_color_filter_dsc_init	1
+lv_color.h:700:26:lv_color_black	1
+lv_obj_pos.h:199:20:lv_obj_center	1
+lv_obj_style.h:92:20:lv_obj_remove_style_all	1
+lv_disp.h:182:26:lv_scr_act	1
+lv_example_get_started_2.c:8:19:darken	1
+lv_example_get_started_2.c:14:13:style_init	1
+lv_example_get_started_2.c:47:6:lv_example_get_started_2	1

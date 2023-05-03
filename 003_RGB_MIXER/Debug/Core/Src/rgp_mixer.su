@@ -1,0 +1,7 @@
+d:\stm32projects\003_rgb_mixer\lvgl\src\misc\lv_color.h:595:26:lv_color_make	16	static
+d:\stm32projects\003_rgb_mixer\lvgl\src\misc\lv_color.h:700:26:lv_color_black	8	static
+D:/STM32Projects/003_RGB_MIXER/lvgl/src/core/lv_disp.h:182:26:lv_scr_act	8	static
+D:/STM32Projects/003_RGB_MIXER/lvgl/src/widgets/lv_slider.h:106:20:lv_slider_set_range	24	static
+D:/STM32Projects/003_RGB_MIXER/lvgl/src/widgets/lv_slider.h:130:23:lv_slider_get_value	16	static
+../Core/Src/rgp_mixer.c:11:6:event_callback	40	static
+../Core/Src/rgp_mixer.c:35:6:rgb_mixer_create_ui	40	static

@@ -1,0 +1,6 @@
+lv_obj_pos.h:199:20:lv_obj_center	1
+lv_obj_style.h:231:20:lv_obj_set_style_size	1
+lv_disp.h:182:26:lv_scr_act	1
+lv_example_chart_8.c:15:13:draw_event_cb	4
+lv_example_chart_8.c:54:16:round_fixed_point	3
+lv_example_chart_8.c:74:6:lv_example_chart_8	3

@@ -1,0 +1,8 @@
+lv_color.h:595:26:lv_color_make	1
+lv_color.h:634:26:lv_color_hex3	1
+lv_style.h:529:20:lv_style_set_pad_all	1
+lv_style.h:543:20:lv_style_set_pad_ver	1
+lv_obj_pos.h:199:20:lv_obj_center	1
+lv_obj_style.h:92:20:lv_obj_remove_style_all	1
+lv_disp.h:182:26:lv_scr_act	1
+lv_example_slider_2.c:9:6:lv_example_slider_2	1

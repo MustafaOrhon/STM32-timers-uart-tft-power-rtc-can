@@ -1,0 +1,9 @@
+d:\stm32projects\003_rgb_mixer\lvgl\src\misc\lv_area.h:123:26:lv_area_get_width	16	static
+d:\stm32projects\003_rgb_mixer\lvgl\src\misc\lv_area.h:133:26:lv_area_get_height	16	static
+d:\stm32projects\003_rgb_mixer\lvgl\src\misc\lv_color.h:595:26:lv_color_make	16	static
+d:\stm32projects\003_rgb_mixer\lvgl\src\misc\lv_color.h:696:26:lv_color_white	8	static
+d:\stm32projects\003_rgb_mixer\lvgl\src\misc\lv_color.h:700:26:lv_color_black	8	static
+d:\stm32projects\003_rgb_mixer\lvgl\src\core\lv_obj_pos.h:199:20:lv_obj_center	16	static
+d:\stm32projects\003_rgb_mixer\lvgl\src/core/lv_disp.h:182:26:lv_scr_act	8	static
+../lvgl/examples/widgets/btnmatrix/lv_example_btnmatrix_2.c:5:13:event_cb	80	static
+../lvgl/examples/widgets/btnmatrix/lv_example_btnmatrix_2.c:71:6:lv_example_btnmatrix_2	16	static
