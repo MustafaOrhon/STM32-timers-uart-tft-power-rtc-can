@@ -1,6 +1,6 @@
 # STM32-timers-uart-low-power-rtc-can
 
-This repository contains an application for STM32F401 and STM32F429 microcontrollers that leverages the device's timers, UART interface, Controller Area Network (CAN) module, and real-time clock (RTC) module. The project has low-power applications and includes sample code for configuring and using the timers, UART interface, CAN module, and RTC module. The code is written in C and includes detailed comments and explanations to facilitate understanding and modification. Additionally, the repository includes examples of CAN communication between two STM32 devices.
+This repository contains an application for STM32F401 and STM32F429 microcontrollers that leverages the device's timers, UART interface, Controller Area Network (CAN) module, and real-time clock (RTC) module and LTDC module. The project has low-power applications and includes sample code for configuring and using the timers, UART interface, CAN module, and RTC module. The code is written in C and includes detailed comments and explanations to facilitate understanding and modification. Additionally, the repository includes examples of CAN communication between two STM32 devices.
 
 ## Installation
 
